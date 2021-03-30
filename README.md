@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Software Engineer  
+## I'm a Software Engineer.
 
 - 👨‍💻 I’m currently working on E-commerce technologies and frameworks like Magento, Strapi, Woocommerce etc.
 - 📚 I’m learning new things everyday about latest Frontend and Backend technologies.
