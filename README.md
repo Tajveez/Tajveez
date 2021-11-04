@@ -40,4 +40,4 @@
 
 ---
 
-[![Visitor Counter for tajveez](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=tajveez)}](https://pimp-my-readme.webapp.io)
+[![Visitor Counter for tajveez](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=tajveez)](https://pimp-my-readme.webapp.io)
