@@ -1,3 +1,5 @@
+[![“Simplicity is the soul of efficiency.”, – Austin Freeman](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=%E2%80%93%20Austin%20Freeman&title=%E2%80%9CSimplicity%20is%20the%20soul%20of%20efficiency.%E2%80%9D)](https://pimp-my-readme.webapp.io)
+
 # Hi there, I'm Tajveez
 
 ## I'm a Software Engineer.
