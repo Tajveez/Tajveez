@@ -13,8 +13,7 @@
 
 ### Contact me 📝
 [![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.linkedin.com/in/tajveez/)
-[<img align="left" alt="Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
-[<img align="left" alt="Twitter" height="30px" src="https://image.flaticon.com/icons/svg/3578/3578922.svg" />][Twitter]
+[![Twitter](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter)](https://twitter.com/tajveezrehman)
 
 <br />
 
