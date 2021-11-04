@@ -42,6 +42,11 @@
 
 ---
 
+[![Visitor Counter for tajveez](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=tajveez)}](https://pimp-my-readme.webapp.io)
+
+<br/>
+
+---
 [instagram]: https://www.instagram.com/tajveez786/
 [linkedin]: https://www.linkedin.com/in/tajveez/
 [Twitter]: https://twitter.com/tajveezrehman
