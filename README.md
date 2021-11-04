@@ -13,9 +13,9 @@
 
 ### Contact me 📝
 
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
-[<img align="left" alt="bilgehangecici | Twitter" height="30px" src="https://image.flaticon.com/icons/svg/3578/3578922.svg" />][Twitter]
+[<img align="left" alt="LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" alt="Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="left" alt="Twitter" height="30px" src="https://image.flaticon.com/icons/svg/3578/3578922.svg" />][Twitter]
 
 <br />
 
@@ -42,7 +42,7 @@
 
 ---
 
-[![Visitor Counter for tajveez](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=tajveez)}]
+[![Visitor Counter for tajveez](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=tajveez)}](https://pimp-my-readme.webapp.io)
 
 <br/>
 
