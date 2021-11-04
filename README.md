@@ -1,7 +1,5 @@
 # Hi there, I'm Tajveez
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 ## I'm a Software Engineer.
 
 - 👨‍💻 I’m working on E-commerce technologies and frameworks like Magento, Strapi, Woocommerce etc.
