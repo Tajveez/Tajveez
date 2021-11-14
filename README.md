@@ -2,7 +2,7 @@
 
 # Hi there, I'm Tajveez
 
-## I'm a Software Engineer.
+## I'm a Software Engineer
 
 - 👨‍💻 I’m working on E-commerce technologies and frameworks like Magento, Strapi, Woocommerce etc.
 - 📚 I’m learning new things everyday about latest Frontend and Backend technologies.
