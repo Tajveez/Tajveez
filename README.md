@@ -1,4 +1,4 @@
-[![“The best is yet to be”, – Robert Browning](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=%E2%80%93%20Austin%20Freeman&title=%E2%80%9CSimplicity%20is%20the%20soul%20of%20efficiency.%E2%80%9D)](https://pimp-my-readme.webapp.io)
+[![The best is yet to be.,  – Robert Browning](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=%20%E2%80%93%20Robert%20Browning&title=The%20best%20is%20yet%20to%20be.)](https://pimp-my-readme.webapp.io)
 
 # Hi there, I'm Tajveez
 
