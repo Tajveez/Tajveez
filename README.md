@@ -1,6 +1,6 @@
 [![The best is yet to be.,  – Robert Browning](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=%20%E2%80%93%20Robert%20Browning&title=The%20best%20is%20yet%20to%20be.)](https://pimp-my-readme.webapp.io)
 
-# Hi there, I'm Tajveez
+# Hi, I'm Tajveez
 
 ## I'm a Software Engineer
 
