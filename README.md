@@ -6,7 +6,7 @@
 
 - 👨‍💻 I’m working on E-commerce technologies and frameworks like Magento, Strapi, Woocommerce etc.
 - 📚 I’m learning new things everyday about latest Frontend and Backend technologies.
-- 💪🏼 Future Goals: Dream, Learn, Plan, Do, Repeat....
+- 💪🏼 Future Goals: Dream, Learn, Do, Repeat....
 
 
 ---
